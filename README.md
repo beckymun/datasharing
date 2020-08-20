@@ -1,5 +1,6 @@
 How to share data with a statistician
 ===========
+*This is a fork of the original project and edited by beckymun*
 
 This is a guide for anyone who needs to share data with a statistician or data scientist. The target audiences I have in mind are:
 
